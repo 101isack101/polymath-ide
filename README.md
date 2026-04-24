@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Node.js-≥18-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-29-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/github/actions/workflow/status/101isack101/polymath-ide/ci.yml?branch=main&style=for-the-badge&label=CI" />
+  <img src="https://img.shields.io/github/actions/workflow/status/101isack101/polymath-ide-fullstack/ci.yml?branch=main&style=for-the-badge&label=CI" />
 </p>
 
 > **EN:** A full-stack browser-based IDE powered by a simulated multi-agent AI panel. Write code in Monaco Editor and get instant reviews from three specialized AI agents.
@@ -18,9 +18,9 @@
 
 ## 📸 Screenshots
 
-| Editor ready | Agents responding |
-|:---:|:---:|
-| ![Polymath IDE — empty editor](screenshots/ide-empty.png) | ![Polymath IDE — agents responding](screenshots/ide-agents.png) |
+| Editor ready | Agents responding | Desktop icon |
+|:---:|:---:|:---:|
+| ![Polymath IDE — empty editor](screenshots/ide-empty.png) | ![Polymath IDE — agents responding](screenshots/ide-agents.png) | ![Polymath IDE — desktop icon](screenshots/desktop-icon.png) |
 
 ---
 
@@ -91,7 +91,7 @@
 ### Install
 
 ```bash
-git clone https://github.com/101isack101/polymath-ide.git
+git clone https://github.com/101isack101/polymath-ide-fullstack.git
 cd polymath-ide
 npm install
 ```
